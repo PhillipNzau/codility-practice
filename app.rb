@@ -13,9 +13,3 @@ def repeating(str)
   end
 
 end
-
-# pp repeating("Code Wars")
-
-pp ok=Hash.new(0)
-ok["s"] += 1
-pp ok
